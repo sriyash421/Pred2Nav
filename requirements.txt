@@ -1,0 +1,9 @@
+numpy
+pandas
+pytorch>=1.5.0,<=1.7.1
+torchvision
+gym
+tensorflow
+filterpy
+attrdict
+pyyaml
