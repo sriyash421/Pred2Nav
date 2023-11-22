@@ -38,7 +38,7 @@ Please modify the test arguments in the begining of `evaluation_mpc.py`.
 We provide sample configs for different prediction models in `crowd_nav/configs/params`.
 
 ```
-python test.py 
+python run_eval.py 
 ```
 
 
